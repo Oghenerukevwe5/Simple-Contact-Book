@@ -9,3 +9,6 @@ It allows you to add, view, and delete contacts, with data saved in a local cont
 # How to Run
  i. Make sure you have Python 3.x installed.
  ii. Clone this repo and open the folder:
+  https://github.com/Oghenerukevwe5/Simple-Contact-Book.git
+ iii. Run the program:
+   python contacts.py
